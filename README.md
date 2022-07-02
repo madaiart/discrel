@@ -1,2 +1,2 @@
-# discrel
-This is a web page for a company
+# Discrel S.A.S :factory:
+This is a company that offers electric and electrical services.
